@@ -1,7 +1,7 @@
 # 教学数据
 
 ## 第3章
-+ [学生数据](ch3/rawdata.txt), [AI生成肖像](ch3/portraits.zip)
++ [AI生成的学生数据](ch3/rawdata.txt), [AI生成的学生肖像](ch3/portraits.zip)
 + [静态网页抓取](html_pages)
 + [清华大学历年录取分数线数据](thu)
 + [动态网页抓取-图3.10所示基础数据](ch3/minsu-overview.csv)
