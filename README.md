@@ -20,6 +20,8 @@
 
 ## 第6章
 
++ [示例代码6.2](notebooks/code6-2.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code6-2.ipynb): 使用Matpotlib绘制正弦曲线
+
 ## 第7章
 
 ## 第8章
