@@ -6,6 +6,9 @@
 
 ## 第2章
 
++ [示例代码2.1](notebooks/code2-1.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code2-1.ipynb): 列表对象、集合对象的创建与简单操作
++ [示例代码2.2](notebooks/code2-2.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code2-2.ipynb): 元组内容不可变
+
 ## 第3章
 + [示例代码3.25](notebooks/code3-25.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code3-25.ipynb): 使用网络爬虫批量抓取静态网页。教学数据：[清华大学历年录取分数线](pybook-data/thu/)
 
