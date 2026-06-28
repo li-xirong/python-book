@@ -2,7 +2,7 @@
 
 ## 第1章
 
-+ [图1.1](notebooks/code1-1.ipynb), [nbviewer](): Python编程示例
++ [图1.1](notebooks/code1-1.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code1-1.ipynb): Python编程示例
 
 ## 第2章
 
