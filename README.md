@@ -25,8 +25,8 @@
 + [示例代码6.2](notebooks/code6-2.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code6-2.ipynb): 绘制正弦曲线
 + [示例代码6.3](notebooks/code6-3.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code6-3.ipynb): 绘制历年人大工商管理专业在福建省理科录取分数线折线图
 + [示例代码6.4](notebooks/code6-4.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code6-4.ipynb): 绘制历年人大工商管理专业在福建省理科录取分数线折线图（改进版）
-+ [示例代码6.5](notebooks/code6-5.ipynb), [nbviewer](https://github.com/li-xirong/python-book/blob/main/notebooks/code6-5.ipynb): 同时绘制多条折线图（无图例）
-+ [示例代码6.6](notebooks/code6-6.ipynb), [nbviewer](https://github.com/li-xirong/python-book/blob/main/notebooks/code6-6.ipynb): 同时绘制多条折线图（带图例）
++ [示例代码6.5](notebooks/code6-5.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code6-5.ipynb): 同时绘制多条折线图（无图例）
++ [示例代码6.6](notebooks/code6-6.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code6-6.ipynb): 同时绘制多条折线图（带图例）
 
 ### 6.2 Pyvis网络图可视化
 
