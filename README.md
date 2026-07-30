@@ -41,6 +41,8 @@
 
 ## 第7章
 
++ [示例代码7.1](notebooks/code7-1.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code7-1.ipynb): 大模型生成的猜数字游戏代码
+
 ## 第8章
 
 + [示例代码8.1](notebooks/code8-1.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code8-1.ipynb): 通过openai调用云端大模型
