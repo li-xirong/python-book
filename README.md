@@ -18,6 +18,9 @@
 
 ## 第5章
 
++ [示例代码5.61](notebooks/code5-61.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code5-61.ipynb): 从本地加载MiniLM模型
++ [示例代码5.66](notebooks/code5-66.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code5-66.ipynb): 从本地加载M3E模型
+
 ## 第6章
 
 ### 6.1 Matplotlib表格数据可视化
