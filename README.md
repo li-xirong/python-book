@@ -43,6 +43,8 @@
 
 ## 第8章
 
++ [示例代码8.1](notebooks/code8-1.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code8-1.ipynb): 通过openai调用云端大模型
+
 ## 数据
 
 + [总览](pybook-data)
