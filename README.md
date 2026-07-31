@@ -30,6 +30,8 @@
 + [示例代码6.4](notebooks/code6-4.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code6-4.ipynb): 绘制历年人大工商管理专业在福建省理科录取分数线折线图（改进版）
 + [示例代码6.5](notebooks/code6-5.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code6-5.ipynb): 同时绘制多条折线图（无图例）
 + [示例代码6.6](notebooks/code6-6.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code6-6.ipynb): 同时绘制多条折线图（带图例）
++ [示例代码6.25](notebooks/code6-25.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code6-25.ipynb): 在Iris数据集上进行PCA降维
++ [示例代码6.26](notebooks/code6-26.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code6-26.ipynb): 绘制经PCA降维后的Iris数据散点图
 
 ### 6.2 Pyvis网络图可视化
 
