@@ -11,7 +11,7 @@
 
 ## 第2讲：Python基础-part1（程序元素、语法与常用数据类型）
 + 主要知识点：
-+ 课件、[教学代码](../notebooks/lecture2.ipynb)
++ 课件、[教学代码](../main/notebooks/lecture2.ipynb)
 
 ## 第3讲：Python基础-part2（字符串与函数）
 + 主要知识点：
