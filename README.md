@@ -1,6 +1,13 @@
 # 《实用Python编程》教材与课程主页
 
-## 示例代码
+
+## 教学大纲
++ [16讲](syllabus-16weeks.md)
+
+## 数据
++ [总览](pybook-data)
+
+## 各章示例代码
 ### 第1章
 
 + [图1.1](notebooks/code1-1.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code1-1.ipynb): Python编程示例
@@ -45,10 +52,4 @@
 
 + [示例代码8.1](notebooks/code8-1.ipynb), [nbviewer](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code8-1.ipynb): 通过openai调用云端大模型
 
-## 数据
 
-+ [总览](pybook-data)
-
-## 课件（PPT）
-
-+ 百度云盘链接
