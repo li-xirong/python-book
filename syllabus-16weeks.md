@@ -27,7 +27,7 @@
 
 ## 第6讲：网上数据抓取
 + 主要知识点：
-+ 课件、[教学代码](lecture6.ipynb)
++ 课件、[教学代码](../main/notebooks/lecture6.ipynb)、[思维导图](../main/mind-maps/ch3-part2.md.png)
 
 ## 第7讲：数据清洗与数值计算
 + 主要知识点：
