@@ -15,7 +15,7 @@
 
 ## 第3讲：Python基础-part2（字符串与函数）
 + 主要知识点：
-+ 课件、[教学代码](../main/notebooks/lecture3.ipynb)
++ 课件、[教学代码](../main/notebooks/lecture3.ipynb)、[思维导图](../main/mind-maps/ch2-part2.md.png)
 
 ## 第4讲：Python基础-part3（类、模块与库）
 + 主要知识点：
