@@ -1,1 +1,8 @@
 notebooks/fm/
+notebooks/bert-base-uncased/
+notebooks/.ipynb_checkpoints
+notebooks/**/__pycache__
+notebooks/output
+
+# data
+pybook-data/ch3/portraits
