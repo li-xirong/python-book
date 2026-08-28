@@ -15,11 +15,11 @@
 
 ## 第3讲：Python基础-part2（字符串与函数）
 + 主要知识点：
-+ 课件、[教学代码](lecture3.ipynb)
++ 课件、[教学代码](../main/notebooks/lecture3.ipynb)
 
 ## 第4讲：Python基础-part3（类、模块与库）
 + 主要知识点：
-+ 课件、[教学代码](lecture4.ipynb)
++ 课件、[教学代码](../main/notebooks/lecture4.ipynb)
 
 ## 第5讲：数据存储与文件读写
 + 主要知识点：
