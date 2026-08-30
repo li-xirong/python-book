@@ -10,6 +10,9 @@
 
 + [CSV格式的人大历年高考录取分数据](ruc_data.zip): 以省份为目录、以年份为文件名分散存储
 + [金庸小说-笑傲江湖文本](ch4/笑傲江湖.txt), [分词结果](ch4/笑傲江湖.txt.seg)
++ [北京市2024年本科普通批录取投档线](beijing/aHR0cHM6Ly9nYW9rYW8uZW9sLmNuL2JlaV9qaW5nL2Rvbmd0YWkvMjAyNDA3L3QyMDI0MDcyMF8yNjI1MTY4LnNodG1s.html): [网址](https://gaokao.eol.cn/bei_jing/dongtai/202407/t20240720_2625168.shtml)
++ [北京市2024年高考分段表](beijing/aHR0cHM6Ly9nYW9rYW8uZW9sLmNuL2JlaV9qaW5nL2Rvbmd0YWkvMjAyNDA2L3QyMDI0MDYyNV8yNjE5MTkyLnNodG1s.html): [网址](https://gaokao.eol.cn/bei_jing/dongtai/202406/t20240625_2619192.shtml)
+
 
 
 ## 第5章
