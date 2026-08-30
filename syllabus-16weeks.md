@@ -35,7 +35,7 @@
 
 ## 第8讲：Pandas表格数据处理与分析
 + 主要知识点：
-+ 课件、[教学代码](../main/notebooks/lecture8.ipynb)
++ 课件、[教学代码](../main/notebooks/lecture8.ipynb)、[思维导图](../main/mind-maps/ch4-part2.png)
 
 ## 第9讲：sklearn机器学习
 + 主要知识点：
