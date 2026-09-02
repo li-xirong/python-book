@@ -3,6 +3,7 @@ notebooks/bert-base-uncased/
 notebooks/.ipynb_checkpoints
 notebooks/**/__pycache__
 notebooks/output
+.DS_Store
 
 # data
 pybook-data/ch3/portraits
