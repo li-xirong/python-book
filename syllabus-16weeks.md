@@ -63,4 +63,4 @@
 
 ## 第16讲：大模型二次开发
 + 主要知识点：
-+ 课件、[教学代码](lecture16.ipynb)
++ 课件、[教学代码](../main/notebooks/lecture16.ipynb)、[思维导图](../main/mind-maps/ch8.png)
