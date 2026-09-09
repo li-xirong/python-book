@@ -23,7 +23,7 @@
 
 ## 第5讲：数据存储与文件读写
 + 主要知识点：
-+ 课件、[教学代码](lecture5.ipynb)
++ 课件、[教学代码](../main/notebooks/lecture5.ipynb)、[思维导图](../main/mind-maps/ch3-part1.png)
 
 ## 第6讲：网上数据抓取
 + 主要知识点：
