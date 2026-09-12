@@ -11,23 +11,23 @@
 
 ## 第2讲：Python基础-part1（程序元素、语法与常用数据类型）
 + 主要知识点：
-+ 课件、[教学代码](../main/notebooks/lecture2.ipynb)、[思维导图](../main/mind-maps/ch2-part1.png)
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture2.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch2-part1.png)
 
 ## 第3讲：Python基础-part2（字符串与函数）
 + 主要知识点：
-+ 课件、[教学代码](../main/notebooks/lecture3.ipynb)、[思维导图](../main/mind-maps/ch2-part2.png)
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture3.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch2-part2.png)
 
 ## 第4讲：Python基础-part3（类、模块与库）
 + 主要知识点：
-+ 课件、[教学代码](../main/notebooks/lecture4.ipynb)、[思维导图](../main/mind-maps/ch2-part3.png)
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture4.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch2-part3.png)
 
 ## 第5讲：数据存储与文件读写
 + 主要知识点：
-+ 课件、[教学代码](../main/notebooks/lecture5.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch3-part1.png)
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture5.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch3-part1.png)
 
 ## 第6讲：网上数据抓取
 + 主要知识点：
-+ 课件、[教学代码](../main/notebooks/lecture6.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch3-part2.png)
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture6.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch3-part2.png)
 
 ## 第7讲：数据清洗与数值计算
 + 主要知识点：
@@ -35,7 +35,7 @@
 
 ## 第8讲：Pandas表格数据处理与分析
 + 主要知识点：
-+ 课件、[教学代码](../main/notebooks/lecture8.ipynb)、[思维导图](../main/mind-maps/ch4-part2.png)
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture8.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps//ch4-part2.png)
 
 ## 第9讲：sklearn机器学习
 + 主要知识点：
@@ -63,4 +63,4 @@
 
 ## 第16讲：大模型二次开发
 + 主要知识点：
-+ 课件、[教学代码](../main/notebooks/lecture16.ipynb)、[思维导图](../main/mind-maps/ch8.png)
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture16.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps//ch8.png)
