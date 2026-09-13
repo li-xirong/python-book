@@ -31,7 +31,8 @@
 
 ## 第7讲：数据清洗与数值计算
 + 主要知识点：
-+ 课件、[教学代码](lecture7.ipynb)
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture7.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch4-part1.png)
+
 
 ## 第8讲：Pandas表格数据处理与分析
 + 主要知识点：
