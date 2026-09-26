@@ -1,4 +1,4 @@
-# 教学大纲-15讲
+# 教学大纲-14讲
 
 + 课程体量：16周，每周2学时，每学时45分钟
 + 教学形式：理论讲解、案例演示、随堂练习、课后巩固
@@ -53,18 +53,14 @@
 + 主要知识点：
 + 课件、[教学代码](lecture11.ipynb)
 
-## 第12讲：非表格数据可视化
-+ 主要知识点：
-+ 课件、[教学代码](lecture12.ipynb)
-
-## 第13讲：Streamlit交互式数据可视化
+## 第12讲：Streamlit交互式数据可视化
 + 主要知识点：
 + 课件、[教学代码](https://li-xirong.github.io/python-book/pycode/)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch6-part3.png)
 
-## 第14讲：大模型辅助编程
+## 第13讲：大模型辅助编程
 + 主要知识点：
 + 课件、教学代码
 
-## 第15讲：大模型二次开发
+## 第14讲：大模型二次开发
 + 主要知识点：
-+ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture15.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch8.png)
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture14.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch8.png)
