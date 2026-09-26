@@ -51,7 +51,8 @@
 
 ## 第11讲：第6章-Matplotlib表格数据可视化
 + 主要知识点：
-+ 课件、[教学代码](lecture11.ipynb)
++ 课件、[教学代码](lecture11.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch6-part1.png)
+
 
 ## 第12讲：第6章-Streamlit交互式数据可视化
 + 主要知识点：
