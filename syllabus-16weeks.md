@@ -1,4 +1,4 @@
-# 教学大纲-16讲
+# 教学大纲-15讲
 
 + 课程体量：16周，每周2学时，每学时45分钟
 + 教学形式：理论讲解、案例演示、随堂练习、课后巩固
@@ -17,17 +17,20 @@
 + 主要知识点：
 + 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture3.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch2-part2.png)
 
-## 第4讲：Python基础-part3（类、模块与库）
-+ 主要知识点：
-+ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture4.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch2-part3.png)
 
-## 第5讲：数据存储与文件读写
+## 第4讲：数据存储与文件读写
 + 主要知识点：
-+ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture5.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch3-part1.png)
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture4.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch3-part1.png)
+
+## 第5讲：Python基础-part3（类、模块与库）
++ 主要知识点：
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture5.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch2-part3.png)
+
 
 ## 第6讲：网上数据抓取
 + 主要知识点：
 + 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture6.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch3-part2.png)
+
 
 ## 第7讲：数据清洗与数值计算
 + 主要知识点：
@@ -42,26 +45,26 @@
 + 主要知识点：
 + 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture9.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch5-part1.png)
 
-## 第10/11讲：PyTorch深度学习
+## 第10讲：PyTorch深度学习
 + 主要知识点：
-+ 课件、[教学代码](lecture10-11.ipynb)
++ 课件、[教学代码](lecture10.ipynb)
 
-## 第12讲：Matplotlib表格数据可视化
+## 第11讲：Matplotlib表格数据可视化
++ 主要知识点：
++ 课件、[教学代码](lecture11.ipynb)
+
+## 第12讲：非表格数据可视化
 + 主要知识点：
 + 课件、[教学代码](lecture12.ipynb)
 
-## 第13讲：非表格数据可视化
-+ 主要知识点：
-+ 课件、[教学代码](lecture13.ipynb)
-
-## 第14讲：Streamlit交互式数据可视化
+## 第13讲：Streamlit交互式数据可视化
 + 主要知识点：
 + 课件、[教学代码](https://li-xirong.github.io/python-book/pycode/)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch6-part3.png)
 
-## 第15讲：大模型辅助编程
+## 第14讲：大模型辅助编程
 + 主要知识点：
 + 课件、教学代码
 
-## 第16讲：大模型二次开发
+## 第15讲：大模型二次开发
 + 主要知识点：
-+ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture16.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps//ch8.png)
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture15.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch8.png)
