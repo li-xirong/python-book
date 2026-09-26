@@ -36,11 +36,11 @@
 
 ## 第8讲：Pandas表格数据处理与分析
 + 主要知识点：
-+ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture8.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps//ch4-part2.png)
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture8.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch4-part2.png)
 
-## 第9讲：sklearn机器学习
+## 第9讲：Sklearn机器学习
 + 主要知识点：
-+ 课件、[教学代码](lecture9.ipynb)
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture9.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch5-part1.png)
 
 ## 第10/11讲：PyTorch深度学习
 + 主要知识点：
