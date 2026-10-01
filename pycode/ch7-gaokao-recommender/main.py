@@ -6,7 +6,7 @@ from ui_components import render_recommendation_section
 
 def main():
     st.set_page_config(page_title="北京高考志愿推荐系统", layout="wide")
-    st.title("�� 北京高考志愿智能推荐")
+    st.title("🎓北京高考志愿智能推荐")
     st.caption("基于2024年录取数据为2025年考生提供参考")
     # 用户输入区域
     with st.container():
