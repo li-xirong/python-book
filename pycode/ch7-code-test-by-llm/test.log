@@ -1,0 +1,56 @@
+.............................FFFFFFFFF.........                          [100%]
+=================================== FAILURES ===================================
+_______________________________ test_none_input ________________________________
+
+    def test_none_input():
+        """None 没有 .split 方法，当前实现抛出 AttributeError"""
+>       with pytest.raises(AttributeError):
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E       Failed: DID NOT RAISE AttributeError
+
+test_date_to_weekday.py:69: Failed
+________________________________ test_int_input ________________________________
+
+    def test_int_input():
+>       with pytest.raises(AttributeError):
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E       Failed: DID NOT RAISE AttributeError
+
+test_date_to_weekday.py:73: Failed
+_______________________________ test_tuple_input _______________________________
+
+    def test_tuple_input():
+>       with pytest.raises(AttributeError):
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E       Failed: DID NOT RAISE AttributeError
+
+test_date_to_weekday.py:77: Failed
+_______________________________ test_bytes_input _______________________________
+
+    def test_bytes_input():
+>       with pytest.raises(AttributeError):
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E       Failed: DID NOT RAISE AttributeError
+
+test_date_to_weekday.py:81: Failed
+____________________________ test_nonexistent_feb30 ____________________________
+[XPASS(strict)] 未校验日历合法性：2 月 30 日不存在，却被当作合法日期返回星期
+________________________________ test_month_13 _________________________________
+[XPASS(strict)] 未校验月份范围：13 月被接受
+_________________________________ test_month_0 _________________________________
+[XPASS(strict)] 未校验月份范围：0 月被接受
+_____________________________ test_before_min_date _____________________________
+[XPASS(strict)] 未校验日期范围：小于 1900-01-01 的最小日期未拒绝
+____________________________ test_short_components _____________________________
+[XPASS(strict)] 未强制 YYYY 四位年份：'23-1-1' 被当作公元 23 年处理
+=========================== short test summary info ============================
+FAILED test_date_to_weekday.py::test_none_input - Failed: DID NOT RAISE Attri...
+FAILED test_date_to_weekday.py::test_int_input - Failed: DID NOT RAISE Attrib...
+FAILED test_date_to_weekday.py::test_tuple_input - Failed: DID NOT RAISE Attr...
+FAILED test_date_to_weekday.py::test_bytes_input - Failed: DID NOT RAISE Attr...
+FAILED test_date_to_weekday.py::test_nonexistent_feb30 - [XPASS(strict)] 未校...
+FAILED test_date_to_weekday.py::test_month_13 - [XPASS(strict)] 未校验月份范...
+FAILED test_date_to_weekday.py::test_month_0 - [XPASS(strict)] 未校验月份范围...
+FAILED test_date_to_weekday.py::test_before_min_date - [XPASS(strict)] 未校验...
+FAILED test_date_to_weekday.py::test_short_components - [XPASS(strict)] 未强...
+9 failed, 38 passed in 0.02s

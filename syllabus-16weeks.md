@@ -60,7 +60,7 @@
 
 ## 第13讲：第7章-大模型辅助编程
 + 主要知识点：
-+ 课件、教学代码
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture13.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch7.png)
 
 ## 第14讲：第8章-大模型二次开发
 + 主要知识点：

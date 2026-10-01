@@ -6,12 +6,12 @@
 
 Step 1. 利用[网络爬虫](crawler.py)抓取数据
 
-```python
+```bash
 python crawler.py
 ```
 
 Step 2. 对抓取的网页数据进行清洗
-```python
+```bash
 python clean_data.py
 ```
 
