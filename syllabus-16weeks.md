@@ -47,7 +47,8 @@
 
 ## 第10讲：第5章-PyTorch深度学习
 + 主要知识点：
-+ 课件、[教学代码](lecture10.ipynb)
++ 课件、[教学代码](https://github.com/li-xirong/python-book/blob/main/notebooks/lecture10.ipynb)、[思维导图](https://li-xirong.github.io/python-book/mind-maps/ch5-part2.png)
+
 
 ## 第11讲：第6章-Matplotlib表格数据可视化
 + 主要知识点：
