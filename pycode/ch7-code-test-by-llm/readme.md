@@ -2,7 +2,7 @@
 # 大模型辅助代码测试与调试
 
 
-+ [原始目标函数](mymodule.py): 基于Zeller公式实现的日期转星期几的函数
++ [原始目标函数](mymodule.py): 基于Zeller公式实现的日期转星期几的函数，带有隐患
 
 
 ## 代码测试
@@ -29,6 +29,6 @@
 >+ 测试日志为test.log
 >在确保代码正确的前提下，代码尽可能简洁高效（最好不超过50行），且要包含必要的注释。
 
-+ [Kimi修改方案](mymodule_kimi.py)
-+ [DeepSeek修改方案](mymodule_ds.py)
++ [Kimi修改方案](mymodule_kimi.py), 测试命令`pytest -q test_date_to_weekday_kimi.py`
++ [DeepSeek修改方案](mymodule_ds.py), 测试命令`pytest -q test_date_to_weekday_ds.py`
 
