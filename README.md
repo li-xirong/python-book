@@ -13,18 +13,18 @@
 
 ## 课件
 
-+ 第01讲: [第1章 认识Python](第1章-认识Python.pdf)
-+ 第02讲: [第2章 Python基础-A](第2章-Python基础-part1.pdf)（程序元素、语法与常用数据类型）
-+ 第03讲: [第2章 Python基础-B](第2章-Python基础-part2.pdf)（字符串与函数）
-+ 第04讲: [第3章 数据存储与网上数据抓取-A](第3章-数据存储与网上数据抓取-part1.pdf)（数据存储与文件读写）
-+ 第05讲: [第2章 Python基础-C](第2章-Python基础-part3.pdf)（类、模块与库）
-+ 第06讲: [第3章 数据存储与网上数据抓取-B](第3章-数据存储与网上数据抓取-part2.pdf)（网上数据抓取）
-+ 第07讲: [第4章 数据处理与分析-A](第4章-数据处理与分析-part1.pdf)（数据清洗与数值计算）
-+ 第08讲: [第4章 数据处理与分析-B](第4章-数据处理与分析-part2.pdf)（Pandas表格数据处理与分析）
-+ 第09讲: [第5章 数据智能-A](第5章-数据智能-part1.pdf)（Sklearn机器学习)
-+ 第10讲: [第5章 数据智能-B](第5章-数据智能-part2.pdf)（PyTorch深度学习）
-+ 第11讲: [第6章 数据可视化-A](第6章-数据可视化-part1.pdf)（Matplotlib表格数据可视化）
-+ 第12讲: [第6章 数据可视化-B](第6章-数据可视化-part3.pdf)（Streamlit交互式数据可视化）
-+ 第13讲: [第7章 大模型辅助编程](第7章-大模型辅助编程.pdf)
-+ 第14讲: [第8章 大模型二次开发](第8章-大模型二次开发.pdf)
++ 第01讲: [第1章 认识Python](第1章-认识Python.pdf), [教学代码](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/code1-1.ipynb)
++ 第02讲: [第2章 Python基础-A](第2章-Python基础-A.pdf)（程序元素、语法与常用数据类型）, [教学代码](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/lecture2.ipynb)
++ 第03讲: [第2章 Python基础-B](第2章-Python基础-B.pdf)（字符串与函数）, [教学代码](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/lecture3.ipynb)
++ 第04讲: [第3章 数据存储与网上数据抓取-A](第3章-数据存储与网上数据抓取-A.pdf)（数据存储与文件读写）, [教学代码](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/lecture4.ipynb)
++ 第05讲: [第2章 Python基础-C](第2章-Python基础-C.pdf)（类、模块与库）, [教学代码](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/lecture5.ipynb)
++ 第06讲: [第3章 数据存储与网上数据抓取-B](第3章-数据存储与网上数据抓取-B.pdf)（网上数据抓取）, [教学代码](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/lecture6.ipynb)
++ 第07讲: [第4章 数据处理与分析-A](第4章-数据处理与分析-A.pdf)（数据清洗与数值计算）, [教学代码](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/lecture7.ipynb)
++ 第08讲: [第4章 数据处理与分析-B](第4章-数据处理与分析-B.pdf)（Pandas表格数据处理与分析）, [教学代码](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/lecture8.ipynb)
++ 第09讲: [第5章 数据智能-A](第5章-数据智能-A.pdf)（Sklearn机器学习), [教学代码](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/lecture9.ipynb)
++ 第10讲: [第5章 数据智能-B](第5章-数据智能-B.pdf)（PyTorch深度学习）, [教学代码](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/lecture10.ipynb)
++ 第11讲: [第6章 数据可视化-A](第6章-数据可视化-A.pdf)（Matplotlib表格数据可视化）, [教学代码](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/lecture11.ipynb)
++ 第12讲: [第6章 数据可视化-B](第6章-数据可视化-B.pdf)（Streamlit交互式数据可视化）, [教学代码](https://li-xirong.github.io/python-book/pycode/)
++ 第13讲: [第7章 大模型辅助编程](第7章-大模型辅助编程.pdf), [教学代码](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/lecture13.ipynb)
++ 第14讲: [第8章 大模型二次开发](第8章-大模型二次开发.pdf), [教学代码](https://nbviewer.org/github/li-xirong/python-book/blob/main/notebooks/lecture14.ipynb)
 
